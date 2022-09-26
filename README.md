@@ -41,6 +41,17 @@
 </details>
 
 <details markdown="1">
+<summary>Technical Skills</summary>
+<br>
+
+- SQL
+- Excel
+- R/Python
+- Tableau & Power BI
+
+</details>
+
+<details markdown="1">
 <summary>Further Accomplishments</summary>
 <br>
 
@@ -54,10 +65,22 @@
 
 <details>
 <summary>Project #1</summary>
+<br>
 
-Below is an image
+**Summary**
 
-[Travel Project.pdf](https://github.com/OSummers/data_analyst_portfolio/files/9647511/Travel.Project.pdf)
+In this project, we study how travel to and from the UK has changed, using the comparison between pre and post-pandemic
+
+Firstly, we look at the top 10 best performing years for travellers into the UK with data collected from 1980 to 2022, the image below (produced on Power BI) displays the results of the top 10 years from the time period recorded.
+<br>
+
+![project one image](https://user-images.githubusercontent.com/111752059/192318431-c8935154-05cc-4378-a47e-1109e9f7b602.png)
+
+**Conclusion**
+<br>
+
+from the results, we can see that 2006 - 2019 was a more popular time to travel, particulary with 2017 being the best year recorded so far.
+
 
 </details>
 
