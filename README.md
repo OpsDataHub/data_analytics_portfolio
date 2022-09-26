@@ -55,6 +55,10 @@
 <details>
 <summary>Project #1</summary>
 
+Below is an image
+
+[Travel Project.pdf](https://github.com/OSummers/data_analyst_portfolio/files/9647511/Travel.Project.pdf)
+
 </details>
 
 <details>
