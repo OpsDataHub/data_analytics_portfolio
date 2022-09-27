@@ -75,9 +75,12 @@ Firstly, we look at the top 10 best performing years for travellers into the UK 
 <br>
 
 **Key Findings**
-<br>
 
-![project one image](https://user-images.githubusercontent.com/111752059/192318431-c8935154-05cc-4378-a47e-1109e9f7b602.png)
+- 2021 was the lowest year reocrded for total travellers into the UK
+
+![Top 10 Year Charts](https://user-images.githubusercontent.com/111752059/192544963-58b2db46-76c7-402c-8201-5dc9c1ebab58.png)
+![Lowest 10 Year Charts](https://user-images.githubusercontent.com/111752059/192544971-815f5f48-18e4-402d-bed7-ec670df1c1d8.png)
+
 
 **Conclusion**
 <br>
