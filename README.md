@@ -89,11 +89,11 @@ from the results, we can see that 2006 - 2019 was a more popular time to travel,
 
 *Further Notes*
 
-- Code/File: Go to File
+- Code/File: Found here(
 - Source: ONS national survey
 - Description: This project was created to highlight changes in consumer behaviour and discover past and future changes to travel
 - Skills: Data visualization, mining, cleaning
-- Technology: Power BI, SQL
+- Technology: Power BI, SQL, Excel
 
 </details>
 
