@@ -64,7 +64,7 @@
 # Contents
 
 <details>
-<summary>Project #1</summary>
+<summary>Project #1 (Consumer Changes to travel to and from the UK)</summary>
 <br>
 
 **Summary**
@@ -74,6 +74,9 @@ In this project, we study how travel to and from the UK has changed, using the c
 Firstly, we look at the top 10 best performing years for travellers into the UK with data collected from 1980 to 2022, the image below (produced on Power BI) displays the results of the top 10 years from the time period recorded.
 <br>
 
+**Key Findings**
+<br>
+
 ![project one image](https://user-images.githubusercontent.com/111752059/192318431-c8935154-05cc-4378-a47e-1109e9f7b602.png)
 
 **Conclusion**
@@ -81,6 +84,13 @@ Firstly, we look at the top 10 best performing years for travellers into the UK 
 
 from the results, we can see that 2006 - 2019 was a more popular time to travel, particulary with 2017 being the best year recorded so far.
 
+*Further Notes*
+
+- Code/File: Go to File
+- Source: ONS national survey
+- Description: This project was created to highlight changes in consumer behaviour and discover past and future changes to travel
+- Skills: Data visualization, mining, cleaning
+- Technology: Power BI, SQL
 
 </details>
 
