@@ -67,14 +67,14 @@
 <summary>Project #1 (Consumer Changes to travel to and from the UK)</summary>
 <br>
 
-**Summary**
+#### **Summary**
 
 In this project, we study how travel to and from the UK has changed, using the comparison between pre and post-pandemic
 
 Firstly, we look at the top 10 best performing years for travellers into the UK with data collected from 1980 to 2022, the image below (produced on Power BI) displays the results of the top 10 years from the time period recorded.
 <br>
 
-**Key Findings**
+#### **Key Findings**
 
 - 2021 was the lowest year reocrded for total travellers into the UK
 
@@ -82,18 +82,18 @@ Firstly, we look at the top 10 best performing years for travellers into the UK 
 ![Lowest 10 Year Charts](https://user-images.githubusercontent.com/111752059/192544971-815f5f48-18e4-402d-bed7-ec670df1c1d8.png)
 
 
-**Conclusion**
+#### **Conclusion**
 <br>
 
 from the results, we can see that 2006 - 2019 was a more popular time to travel, particulary with 2017 being the best year recorded so far.
 
 *Further Notes*
 
-- Code/File: Found here(
-- Source: ONS national survey
+- Code/File: [Found here](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)
+- Source: Office for National Survey - Overseas travel and tourism dataset
 - Description: This project was created to highlight changes in consumer behaviour and discover past and future changes to travel
-- Skills: Data visualization, mining, cleaning
-- Technology: Power BI, SQL, Excel
+- Skills: Data visualization, explorartory data analysis, mining, cleaning, preparation.
+- Technology: SQL, Excel, Power BI
 
 </details>
 
