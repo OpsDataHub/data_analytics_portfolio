@@ -67,6 +67,9 @@
 <summary>Project #1 (Consumer Changes to travel to and from the UK)</summary>
 <br>
 
+Project Name / Description / Topic
+______________
+
 ### **Summary**
 
 In this project, we study how travel to and from the UK has changed, using the comparison between pre and post-pandemic
