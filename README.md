@@ -1,19 +1,19 @@
-# <h1 align="center">Data Analyst Portfolio</h1>
+# <h1 align="center">Data Analyst Portfolio </h1>
 <h5 align="center">By Oliver Summers (BMus, PGCE)</h5>
 
 <details>
 <summary>About Me</summary>
 <br>
 
-**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working in datasets of varying degrees, from easy-to-digest Excel spreadsheets to larger datasets used in SQL, R and Python.
+**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working in datasets of varying degrees, from easy-to-digest Excel spreadsheets to larger datasets of 200,000+ sets of data used in SQL, and R/Python.
 
-**Why do you do what you do?** - I've always been invested in data in various ways, starting with music. With growth for the data field set to grow about 28% through 2026 [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) I believe that the future of data has never been more exciting!
+**Why do you do what you do?** - I've always been invested in data and using applications to get results, starting with music programming and technology and later utilising SQL, Excel and Tableau/Power BI to drive business decisions. According to [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) With growth for the data field set to grow about 28% through 2026. I'm confident that the future of data has never been more exciting!
 
-**What expertise and skills do you have?** - As a qualified teacher, I have extensive experience with 
+**What expertise and skills do you bring?** - While I bring with me the invaluable skillsets in using SQL, Excel, Tableau/Power BI (to name a few) One of my standout qualities is being a qualified educator for 6+ years, with a pedagogical approach in being able to present complex information in a clear and consice manner, having supported both primary and further education in the UK and US, to students from 5 to 50 years of age, so quite a varied age group. This is ciritical when dealing with both business and technical stakeholders who rely on this information to plan ahead with strategic business decisions that can have a major impact.
 
-**What accomplishments have you made?** - You can see a bullet point list below further for exmaples (list is not exhaustive)
+**What accomplishments have you made?** - I've put together a bullet point list below under "Further Accomplishments" for examples (list is not exhaustive though!)
 
-**What are you looking for?** - I'm looking for a role focusing on data that I'm passionate about analysing, and push forward decisions for brands that have a positive impact on soceity. I'd love to hear from you to discuss further about what you're looking for in a data analyst role and the needs of the business, so please do get in touch so we can discuss further. Thank you and looking forward to speaking with you!
+**What are you looking for?** - I'm looking for a role that prioritises data in their workplace that I'm really keen in analysing and finding results for. I'd love to hear from you to discuss further about what you're looking for in a data analyst role and the needs of the business, so please do get in touch so we can discuss further. Looking forward to speaking with you!
 <br>
 <br>
 
@@ -26,17 +26,17 @@
 <br>
 
 - **Communication & Presentation**
-  - PGCE, delivered lessons
-  - At MyTutor, delivered presentations to 20+ staff
+  - Delivered PowerPoint presentations for 100+ lessons in both primary and FE education sectors in UK and US
+  - Presented weekly workshops to 20+ teams to update B2C stakeholders at MyTutor on data-led insights
 - **Teamwork**
-  - test
-  - test
-- **Critical Thinking**
-  - test
-  - test
+  - Collaboarated with product and engineering teams at MyTutor to successfully solve 30+ daily technical site issues 
+  - Supported our Business Development team at FMIC to update signed 200+ contracts from dealers in the AS/400 database
+- **Problem Solving**
+  - Solved technical issues reported on JIRA that lead to improving customer satisfaction on Google from 3.8 to 4.0 out of 5
+  - Created categories for product reports in our CRM system (Zendesk) to collect data from 10,000+ customers, improving accurate reporting at MyTutor
 - **Attention to Detail**
-  - test
-  - test
+  - Scrutinised up to 500 daily bookings at Ocean Holidays, analysing for correct information extracted from Excel and comparing to transmittals received to reach 97%+ score
+  - Extract data from the AS/400 database into Excel to format, removing duplicates and missing values to provide to more than 200+ colleagues across the EMEA business  at FMIC.
 
 </details>
 
