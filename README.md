@@ -1,4 +1,4 @@
-# <h1 align="center">Data Analyst Portfolio </h1>
+# <h1 align="center">Data Analyst Portfolio</h1>
 <h5 align="center">By Oliver Summers (BMus, PGCE)</h5>
 
 <details>
@@ -10,8 +10,6 @@
 **Why do you do what you do?** - I've always been invested in data and using applications to get results, starting with music programming and technology and later utilising SQL, Excel and Tableau/Power BI to drive business decisions. According to [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) With growth for the data field set to grow about 28% through 2026. I'm confident that the future of data has never been more exciting!
 
 **What expertise and skills do you bring?** - While I bring with me the invaluable skillsets in using SQL, Excel, Tableau/Power BI (to name a few) One of my standout qualities is being a qualified educator for 6+ years, with a pedagogical approach in being able to present complex information in a clear and consice manner, having supported both primary and further education in the UK and US, to students from 5 to 50 years of age, so quite a varied age group. This is ciritical when dealing with both business and technical stakeholders who rely on this information to plan ahead with strategic business decisions that can have a major impact.
-
-**What accomplishments have you made?** - I've put together a bullet point list below under "Further Accomplishments" for examples (list is not exhaustive though!)
 
 **What are you looking for?** - I'm looking for a role that prioritises data in their workplace that I'm really keen in analysing and finding results for. I'd love to hear from you to discuss further about what you're looking for in a data analyst role and the needs of the business, so please do get in touch so we can discuss further. Looking forward to speaking with you!
 <br>
@@ -44,20 +42,10 @@
 <summary>Technical Skills</summary>
 <br>
 
-- SQL
-- Excel
-- R/Python
-- Tableau & Power BI
-
-</details>
-
-<details markdown="1">
-<summary>Further Accomplishments</summary>
-<br>
-
--
--
--
+- Programming: SQL (SQL Server, Azure), Python (BeautifulSoup)
+- Excel: vlookup, index match, count(if), sum(if), min/max(if), average, conditional formatting, trim
+- Modeling: Linear Regressions, Logistic Regressions
+- Data Visualisation: Tableau, Power BI, MS Excel/Google Sheets, PowerPoint
 
 </details>
 
