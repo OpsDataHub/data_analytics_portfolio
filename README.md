@@ -61,7 +61,6 @@ Project Name  | Description    | Topic
 ______________
 
 
-
 *Further Notes:*
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)
@@ -73,14 +72,14 @@ ______________
 </details>
 
 <details>
-<summary>Project #2 (Video Games)</summary>
+<summary>Project #2</summary>
+<br>
 
+Project Name  | Description    | Topic
+------------- | -------------  | ------------
+[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data cleaning, wrangling
+______________
 
-### **Summary**
-
-### **Key Findings**
-
-### **Conclusion**
 
 *Further Notes:*
 
@@ -93,13 +92,14 @@ ______________
 </details>
 
 <details>
-<summary>Project #3 (K-pop Music)</summary>
+<summary>Project #3</summary>
+<br>
 
-### **Summary**
+Project Name  | Description    | Topic
+------------- | -------------  | ------------
+[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data cleaning, wrangling
+______________
 
-### **Key Findings**
-
-### **Conclusion**
 
 *Further Notes:*
 
