@@ -55,19 +55,17 @@
 <summary>Project #1</summary>
 <br>
 
-Project Name  | Description    | Topic
+Project Name  | Description    | Skills
 ------------- | -------------  | ------------
-[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data cleaning, wrangling
+[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparation
 ______________
 
 
 *Further Notes:*
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)
-- Source: Office for National Survey - Overseas travel and tourism dataset
-- Description: This project was created to highlight changes in consumer behaviour and discover past and future changes to travel
-- Skills: Data visualization, explorartory data analysis, mining, cleaning, preparation
-- Technology: SQL, Excel, Power BI
+- Source: [Office for National Survey - Overseas travel and tourism time series](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/internationalpassengersurveytimeseriesspreadsheet)
+- Technology: SQL, Excel, Power BI, Parsehub
 
 </details>
 
@@ -75,19 +73,17 @@ ______________
 <summary>Project #2</summary>
 <br>
 
-Project Name  | Description    | Topic
+Project Name  | Description    | Skills
 ------------- | -------------  | ------------
-[Analysing Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, Wrangling, Exploratory Data Analysis
+[Analysing Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
 ______________
 
 
 *Further Notes:*
 
-- Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)
-- Source:
-- Description:
-- Skills:
-- Technology:
+- Code/File: [repository folder here](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)
+- Source: [Steam top 250](https://steam250.com/reviews), [Metacritic Games Releases](https://www.metacritic.com/browse/games/score/metascore/all/all/filtered)
+- Technology: SQL, Excel, Tableau, Parsehub
 
 </details>
 
@@ -105,8 +101,6 @@ ______________
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)
 - Source:
-- Description:
-- Skills:
 - Technology:
 
 </details>
