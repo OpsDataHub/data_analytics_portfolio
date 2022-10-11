@@ -77,7 +77,7 @@ ______________
 
 Project Name  | Description    | Topic
 ------------- | -------------  | ------------
-[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data cleaning, wrangling
+[Analysing Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, Wrangling, Exploratory Data Analysis
 ______________
 
 
