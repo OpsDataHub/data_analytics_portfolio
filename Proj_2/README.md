@@ -4,13 +4,26 @@ With the rise of subscription services rising across all forms of media entertai
 
 ## **Key Findings**
 
+<details>
+<summary>1.</summary>
+
 Firstly, let's look at Free-to-play (F2P) games and they differ between score and votes
 
 **INSERT IMAGE HERE**
 
+</details>
+
+<details>
+<summary>2.</summary>
+
 If we look at how many players are playing free vs paid games, we see an interesting response where most players reported here are in fact playing paid games, as opposed to free ones, despite the finanaical incentive offered by F2P games.
 
 ![Free vs Paid](https://user-images.githubusercontent.com/111752059/195148511-9e5411f3-eb1d-4f75-bb76-367ef449cadd.png)
+
+</details>
+
+<details>
+<summary>3.</summary>
 
 For the areas where games are being paid for, below shows the most popular pricing points that players are paying for. This does not take into account discounted prices offered by publishers/developers.
 
@@ -24,6 +37,11 @@ Now let's look to compare both of them through a bivariate analysis
 
 ![Paid Games Comparison](https://user-images.githubusercontent.com/111752059/195148523-484cf52a-bf41-4928-997c-d73c900e6b25.png)
 
+</details>
+
+<details>
+<summary>4.</summary>
+
 With the growth in live-service and F2P games, it's important to research more specifically about what type of F2P games, people are playing. Below explores this question further, looking at highest/lowest performing in terms of genre
 
 ![Top 10 Genres](https://user-images.githubusercontent.com/111752059/195148535-8bcc3f59-65bc-448e-bb63-8d927e327cca.png)
@@ -34,17 +52,27 @@ Additionally, we can also see the lowest 10 rated genres out of the top 250 rate
 
 ![Top 10 Lowest Performing Genres](https://user-images.githubusercontent.com/111752059/195148536-4268e812-5b05-4497-b7a2-36ba1b65eb3c.png)
 
+</details>
+
+<details>
+<summary>5.</summary>
+
 Let's look at how these games compare in terms of overall rating and vote amounts
 
 ![Top F2P Games by Scores](https://user-images.githubusercontent.com/111752059/195148551-117fcdfe-7820-4e06-9d0a-c46101df69f8.png)
 <br>
 ![Top 10 F2P Games by Votes](https://user-images.githubusercontent.com/111752059/195148527-48e02b33-7f2f-4dd8-9f18-ca80d6496cba.png)
 
+</details>
+
+<details>
+<summary>6.</summary>
+
 What years were most popular with most rated games?
 
 ![Games Released by Year](https://user-images.githubusercontent.com/111752059/195148514-8944af33-e1e7-477f-a63b-e00e6ebaa79d.png)
 
-
+</details>
 
 ## **Conclusion**
 
