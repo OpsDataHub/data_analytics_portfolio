@@ -57,7 +57,7 @@
 
 Project Name  | Description    | Skills
 ------------- | -------------  | ------------
-[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparation
+[Consumer Changes to Travel to and From The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparation
 ______________
 
 
@@ -93,14 +93,14 @@ ______________
 
 Project Name  | Description    | Topic
 ------------- | -------------  | ------------
-[Consumer Changes to travel to and from the UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data cleaning, wrangling
+[Geographical Analysis of K-pop Music](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)  | Gaining knowledge on where k-pop idols are originating from, looking at location, age and gender  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
 ______________
 
 
 *Further Notes:*
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)
-- Source:
-- Technology:
+- Source: [k-pop idol dataset](https://dbkpop.com/db/all-k-pop-idols/)
+- Technology: SQL, Excel, Tableau
 
 </details>
