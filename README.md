@@ -57,7 +57,7 @@
 
 Project Name  | Description    | Skills & Topics
 ------------- | -------------  | ------------
-[Consumer Changes to Travel to and From The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparing, descriptive & predictive data analysis, univariate & bivariate data analysis
+[Consumer Changes to Travel Into The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparing, descriptive & predictive data analysis, univariate & bivariate data analysis
 ______________
 
 
