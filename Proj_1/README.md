@@ -54,7 +54,7 @@ This would show that while numbers are not as high in post pandemic times compar
 
 from the results, here are the key points:
 
-- 2006 - 2019 was a more popular time to travel, particulary with 2017 being the best year recorded so far.
+- 2006 - 2019 was a more popular time to travel, particulary with 2017 being the best year recorded so far
 - 2021 was the lowest year recorded for total travellers into the UK
 - Both 2019 and 2022 saw gradual increase between March - May
 - 2020 was a more positive year for travel than 2021
