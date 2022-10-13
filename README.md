@@ -55,7 +55,7 @@
 <summary>Project #1</summary>
 <br>
 
-Project Name  | Description    | Skills
+Project Name  | Description    | Skills & Topics
 ------------- | -------------  | ------------
 [Consumer Changes to Travel to and From The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparation
 ______________
@@ -73,7 +73,7 @@ ______________
 <summary>Project #2</summary>
 <br>
 
-Project Name  | Description    | Skills
+Project Name  | Description    | Skills & Topics
 ------------- | -------------  | ------------
 [Analysing Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
 ______________
@@ -91,7 +91,7 @@ ______________
 <summary>Project #3</summary>
 <br>
 
-Project Name  | Description    | Topic
+Project Name  | Description    | Skills & Topic
 ------------- | -------------  | ------------
 [Geographical Analysis of K-pop Music](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)  | Gaining knowledge on where k-pop idols are originating from, looking at location, age and gender  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
 ______________
