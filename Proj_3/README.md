@@ -1,6 +1,6 @@
 ## **Summary**
 
-BTS isn't the only group from Korea who's taking the world by storm, k-pop is a growing phenomenom in the past decade, so this analysis investigates some of the trends in how k-pop idols are selected, with the purpose to understand how entertainment companies how been selecting idols from the audition processes.
+BTS isn't the only group from Korea who's taking the world by storm, k-pop is a growing phenomenom in the past decade, so this analysis investigates some of the trends in how k-pop idols are selected, with the purpose to understand how entertainment companies select k-pop idols from the audition processes.
 
 ## **Key Findings**
 
@@ -11,7 +11,7 @@ BTS isn't the only group from Korea who's taking the world by storm, k-pop is a 
 
 ![Countries Where Born](https://user-images.githubusercontent.com/111752059/195376872-2cc52cbe-d8f1-44cf-a690-74fb93df4b87.png)
 
-It may be no surprise that South Korea is the biggest country and is the outlier found here however, some of the biggest idols are from neighboring countries like Japan and China. The biggest country outside of the Asia was the USA, which is a big market for k-pop outside of Asia. Somewhat suprisingly, no countries from Europe were found.
+It may be no surprise that South Korea is the biggest country and is the outlier found here, making up 91.91% of the total countries listed however, some of the biggest idols are from neighboring countries like Japan (2.06%) and China (2.98%). The biggest country outside of the Asia was the USA (1.07%), which is a big market for k-pop outside of Asia. Somewhat suprisingly, no countries from Europe were listed.
 
 </details>
 
@@ -22,7 +22,7 @@ It may be no surprise that South Korea is the biggest country and is the outlier
 
 ![Countries and Genders](https://user-images.githubusercontent.com/111752059/195376867-715f2508-5289-442b-9509-722583248966.png)
 
-In South Korea, male performers were 12% higher than females. The same pattern is seen in China and USA too however, those from Japan and Taiwan, females represented the overall majority for these countries.
+In South Korea, male performers were 12% higher than females. The same pattern is seen in China (46.15% higher) and USA too (57.14% higher) however, those from Japan and Taiwan, females represented the overall majority for these countries by 66% and 133% respectively.
 
 </details>
 
