@@ -33,7 +33,7 @@ In South Korea, male performers were 12% higher than females. The same pattern i
 
 ![Different Groups](https://user-images.githubusercontent.com/111752059/195376875-7fc3fdf7-8278-4b6b-ad22-8fbb79b423c1.png)
 
-The outlier here is that many idols are not in other groups, meaning the overall majority are dedicated to those particuar groups. This would suggest that while it is not uncommon that k-pop idols will have solo careers separate from the groups, it is not common for them to form other groups, highly likely this would be a decision from the companies, rather than the idols themselves.
+The outlier here is that many idols are not in other groups, meaning the overall majority are dedicated to those particuar groups. This would suggest that while it is not uncommon that k-pop idols will have solo careers separate from the groups, it is not common for them to form other groups, highly likely this would be a decision from the companies, rather than the k-pop stars themselves.
 
 </details>
 
@@ -44,7 +44,7 @@ The outlier here is that many idols are not in other groups, meaning the overall
 
 Data shows here that most popular age groups are between 1994 - 2000 (aged 22 - 27) the increase could suggest that with the rise in popularity, more k-pop idols are making their debut to meet the global demand. The decline from 2000 could potentially be due to k-pop idols who have not yet made their debut and are still undergoing the training process. 
 
-While some countries (Japan, Taiwan) showed that that there were more females than males, the data here reinfornces the fact that there are more male idols than female.
+While some countries (Japan, Taiwan) showed that that there were more females than males, the data here reinfornces the fact that there are more male idols than female by 6.41%.
 
 </details>
 
@@ -53,7 +53,9 @@ While some countries (Japan, Taiwan) showed that that there were more females th
 
 ![Location and Age](https://user-images.githubusercontent.com/111752059/195376881-44e56036-dce0-4c7f-802a-0636b3833e7e.png)
 
-Seoul, with it being the capital is the most popular city for where k-pop idols are from. However, the information here shows that the top cities in South Korea appear to have a larger amount of females compared to males.
+Seoul, with it being the capital is the most popular city where k-pop idols are from. However, the data here shows that the top cities in South Korea appear to have a larger amount of females (89 in total) compared to males (99 in total). Median age across cities in South Korea range from aged 19 to 33, with the oldest for female being 33 and male being 40. This would imply that the lifespan for males is higher than females.
+
+Some of these k-pop stars who are based in South Korea were also born in North America
 
 </details>
 
@@ -61,8 +63,9 @@ Seoul, with it being the capital is the most popular city for where k-pop idols 
 
 From this analysis, the key points found were:
 
-- male higher than female
-- Seoul is most popular city in South Korea, where South Korea is the most popular country for k-pop idols
--
--
--
+- Higher amount of males idols compared to female idols overall by 6.41%
+- Seoul is most popular city in South Korea for k-pop stars, where South Korea is the most popular country
+- There are no European countries where k-pop idols have originated from
+- Most popular age groups are between 1994 - 2000 (aged 22 - 27)
+- A large amount of k-pop idols who are based in South Korea were originally born in the USA
+- Oldest median age for female was 33 years old, while male was 40 years old
