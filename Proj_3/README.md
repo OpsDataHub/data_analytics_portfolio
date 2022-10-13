@@ -38,7 +38,9 @@ The outlier here is that many idols are not in other groups, meaning the overall
 </details>
 
 <details>
-<summary>4.</summary> Let's now look at genders across all countries and which years are most popular
+<summary>4.</summary> Let's now look at genders across all countries and which year groups are most popular with k-pop stars.
+<br>
+<br>
 
 ![Gender and Year Groups](https://user-images.githubusercontent.com/111752059/195376880-2ae33915-9bb0-4a55-a35c-7b1a0476f6bf.png)
 
@@ -50,6 +52,8 @@ While some countries (Japan, Taiwan) showed that that there were more females th
 
 <details>
 <summary>5.</summary> Finally, let's specifically look at South Korea, (being the most popular country, unsurpisingly) and what the median age is for each city. 
+<br>
+<br>
 
 ![Location and Age](https://user-images.githubusercontent.com/111752059/195376881-44e56036-dce0-4c7f-802a-0636b3833e7e.png)
 
