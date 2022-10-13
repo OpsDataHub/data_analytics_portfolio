@@ -1,13 +1,16 @@
 ## **Summary**
 
-BTS isn't the only group from Korea who's taking the world by storm, k-pop is a growing phenomenom in the past decade, so this analysis investigates some of the trends in how k-pop idols are selected, with the purpose to understand how entertainment companies select k-pop idols from the audition processes.
+BTS isn't the only group from Korea who's taking the world by storm, k-pop is a growing phenomenom in the past decade, so this analysis investigates some of the trends in how k-pop idols are selected, with the purpose to understand how entertainment companies select k-pop idols from the audition processes and how this may be considered the trend for future k-pop debuts.
+
+*You can find SQL scripts and CSV dataset in the repository file section above to see how the data was collected, cleaned and mined.*
 
 ## **Key Findings**
 
 <details>
-<summary>1.</summary> Firstly, let's look at all countries of where k-pop idols are from.
+<summary>1.</summary> 
 <br>
-<br>
+
+Firstly, let's look at all countries of where k-pop idols are from.
 
 ![Countries Where Born](https://user-images.githubusercontent.com/111752059/195376872-2cc52cbe-d8f1-44cf-a690-74fb93df4b87.png)
 
@@ -16,9 +19,10 @@ It may be no surprise that South Korea is the biggest country and is the outlier
 </details>
 
 <details>
-<summary>2.</summary> Next, we look at countries and genders to see the differences between them. Here we have South Korea separated from the rest of the countries where k-pop idols are from.
+<summary>2.</summary>
 <br>
-<br>
+
+Next, we look at countries and genders to see the differences between them. Here we have South Korea separated from the rest of the countries where k-pop idols are from.
 
 ![Countries and Genders](https://user-images.githubusercontent.com/111752059/195376867-715f2508-5289-442b-9509-722583248966.png)
 
@@ -27,9 +31,10 @@ In South Korea, male performers were 12% higher than females. The same pattern i
 </details>
 
 <details>
-<summary>3.</summary> Let's see how many are in groups compared to those not in groups (i.e. solo acts), and if those who are solo or groups are also in other groups. Sometimes these are not as super groups, comprising from other groups (e.g. SuperM).
+<summary>3.</summary> 
 <br>
-<br>
+
+Let's see how many are in groups compared to those not in groups (i.e. solo acts), and if those who are solo or groups are also in other groups. Sometimes these are not as super groups, comprising from other groups (e.g. SuperM).
 
 ![Different Groups](https://user-images.githubusercontent.com/111752059/195376875-7fc3fdf7-8278-4b6b-ad22-8fbb79b423c1.png)
 
@@ -38,9 +43,10 @@ The outlier here is that many idols are not in other groups, meaning the overall
 </details>
 
 <details>
-<summary>4.</summary> Let's now look at genders across all countries and which year groups are most popular with k-pop stars.
+<summary>4.</summary>
 <br>
-<br>
+
+Let's now look at genders across all countries and which year groups are most popular with k-pop stars.
 
 ![Gender and Year Groups](https://user-images.githubusercontent.com/111752059/195376880-2ae33915-9bb0-4a55-a35c-7b1a0476f6bf.png)
 
@@ -51,15 +57,14 @@ While some countries (Japan, Taiwan) showed that that there were more females th
 </details>
 
 <details>
-<summary>5.</summary> Finally, let's specifically look at South Korea, (being the most popular country, unsurpisingly) and what the median age is for each city. 
+<summary>5.</summary> 
 <br>
-<br>
+
+Finally, let's specifically look at South Korea, (being the most popular country, unsurpisingly) and what the median age is for each city. 
 
 ![Location and Age](https://user-images.githubusercontent.com/111752059/195376881-44e56036-dce0-4c7f-802a-0636b3833e7e.png)
 
-Seoul, with it being the capital is the most popular city where k-pop idols are from. However, the data here shows that the top cities in South Korea appear to have a larger amount of females (89 in total) compared to males (99 in total). Median age across cities in South Korea range from aged 19 to 33, with the oldest for female being 33 and male being 40. This would imply that the lifespan for males is higher than females.
-
-Some of these k-pop stars who are based in South Korea were also born in North America
+Seoul, with it being the capital is the most popular city where k-pop idols are from. However, the data here shows that the top cities in South Korea appear to have a larger amount of females (89 in total) compared to males (99 in total). Median age across cities in South Korea range from aged 19 to 33, with the oldest for female being 33 and male being 40. This would imply that the lifespan for males is higher than females. Some of these k-pop stars who are based in South Korea were also born in North America
 
 </details>
 
