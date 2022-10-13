@@ -2,6 +2,8 @@
 
 With the rise of subscription services rising across all forms of media entertainment, video games has been a growing industry since the pandemic, so with this in mind, there's a wealth of genres and payment methods, from free to play to single purchase. In this study, we investigate what consumers are consuming by data mining the steam top 250 page to gain a broad understanding of the topic.
 
+*You can find SQL scripts and CSV dataset in the repository file section above to see how the data was collected, cleaned and mined.*
+
 ## **Key Findings**
 
 <details>
