@@ -57,7 +57,7 @@
 
 Project Name  | Description    | Skills & Topics
 ------------- | -------------  | ------------
-[Consumer Changes to Travel to and From The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparation
+[Consumer Changes to Travel to and From The UK](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)  | Looking at the changes between post and pre-pandemic consumer behviour for travel to and from UK  | Data visualization, explorartory data analysis, mining, cleaning, preparing, descriptive & predictive data analysis, univariate & bivariate data analysis
 ______________
 
 
@@ -75,7 +75,7 @@ ______________
 
 Project Name  | Description    | Skills & Topics
 ------------- | -------------  | ------------
-[Analysing Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
+[Analysis on Consumer Behaviour in Video Game Purchases](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)  | Understanding how consumers are selecting what games to play and their purchasing methods  | Data Cleaning, wrangling, preparing, mining, exploratory data analysis, data visualisation, descriptive & predictive data analysis, univariate data analysis
 ______________
 
 
@@ -93,7 +93,7 @@ ______________
 
 Project Name  | Description    | Skills & Topic
 ------------- | -------------  | ------------
-[Geographical Analysis of K-pop Music](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)  | Gaining knowledge on where k-pop idols are originating from, looking at location, age and gender  | Data Cleaning, wrangling, exploratory data analysis, data visualisation
+[Geographical Analysis on K-pop Idols](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)  | Gaining knowledge on where k-pop idols are originating from, looking at location, age and gender  | Data cleaning, wrangling, preparing, exploratory data analysis, data visualisation, descriptive data analysis, univariate data analysis
 ______________
 
 
@@ -101,6 +101,6 @@ ______________
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)
 - Source: [k-pop idol dataset](https://dbkpop.com/db/all-k-pop-idols/)
-- Technology: SQL, Excel, Tableau
+- Technology: SQL, Excel, Tableau, Parsehub
 
 </details>
