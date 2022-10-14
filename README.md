@@ -83,7 +83,7 @@ ______________
 
 - Code/File: [repository folder here](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)
 - Source: [Steam top 250](https://steam250.com/reviews), [Metacritic Games Releases](https://www.metacritic.com/browse/games/score/metascore/all/all/filtered)
-- Technology: SQL, Excel, Tableau, Parsehub
+- Technology: SQL, Excel, Tableau, Parsehub, Python (BeautifulSoup)
 
 </details>
 
@@ -101,6 +101,6 @@ ______________
 
 - Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_3)
 - Source: [k-pop idol dataset](https://dbkpop.com/db/all-k-pop-idols/)
-- Technology: SQL, Excel, Tableau, Parsehub
+- Technology: SQL, Excel, Tableau, Parsehub, Python (BeautifulSoup)
 
 </details>
