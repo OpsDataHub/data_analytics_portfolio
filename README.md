@@ -1,4 +1,4 @@
-# <h1 align="center">Data Analyst Portfolio</h1>
+# <h1 align="center">Data Analytics Portfolio</h1>
 <h5 align="center">By Oliver Summers (BMus, PGCE)</h5>
 
 <details>
@@ -62,7 +62,7 @@ Experienced in using the following applications (not limited to):
 - Miro Board
 - R/Python (BeautifulSoup - web scraping)
 - JIRA & Confluence
-- Extranet and API systems
+- Extranet and API (Internal) systems
 - GDS (Galileo, TD-i, AC7)
 - Internal systems (TravelWeb, NED, AS/400, PIM)
 - CRM systems (Zendesk, HubSpot, Internal)
