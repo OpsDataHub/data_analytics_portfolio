@@ -49,6 +49,26 @@
 
 </details>
 
+<details markdown="1">
+<summary>Applications</summary>
+<br>
+
+Experienced in using the following applications (not limited to):
+
+- Microsoft Office (particularly Excel)
+- Google Suite
+- SQL (MS Server)
+- Tableau/PowerBI
+- Miro Board
+- R/Python (BeautifulSoup - web scraping)
+- JIRA & Confluence
+- Extranet and API systems
+- GDS (Galileo, TD-i, AC7)
+- Internal systems (TravelWeb, NED, AS/400, PIM)
+- CRM systems (Zendesk, HubSpot, Internal)
+
+</details>
+
 # Contents
 
 <details>
