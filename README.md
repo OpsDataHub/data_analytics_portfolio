@@ -9,7 +9,7 @@
 
 **Why do you do what you do?** - I've always been invested in data and using applications to get results, starting with music programming and technology and later utilising SQL, Excel and Tableau/Power BI to drive business decisions. According to [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) With growth for the data field set to grow about 28% through 2026. I'm confident that the future of data has never been more exciting!
 
-**What expertise and skills do you bring?** - While I bring with me the invaluable skillsets in using SQL, Excel, Tableau/Power BI, I'm a qualified educator for 6+ years, with a pedagogical approach in presenting complex information, having supported the education sector in the UK and US to students aged 5- 25. This is ciritical when dealing with both business and technical stakeholders who rely on data to plan ahead with strategic business decisions that can have a major impact.
+**What expertise and skills do you bring?** - While I bring with me the invaluable skill sets in using SQL, Excel, Tableau/Power BI, I'm a qualified educator for 6+ years, with a pedagogical approach in presenting complex information, having supported the education sector in the UK and US to students aged 5-25. This is ciritical when dealing with both business and technical stakeholders who rely on data to plan ahead with strategic business decisions that can have a major impact.
 
 **What are you looking for?** - Looking for a role that prioritises data in their workplace that I'm really keen in analysing and finding results for. I'd love to hear from you to discuss further about what you're looking for in a data analyst role and the needs of the business, so please do get in touch so we can discuss further. Looking forward to speaking with you!
 <br>
@@ -34,7 +34,7 @@
   - Created categories for product reports in our CRM system (Zendesk) to **collect data from 10,000+ daily customers**, improving accurate reporting at MyTutor
 - **Attention to Detail**
   - Scrutinised up to **500 daily bookings** at Ocean Holidays, analysing for correct information extracted from Excel and comparing to transmittals received to **reach 97%+ score**
-  - Extract data from the AS/400 database into Excel to format, removing duplicates and missing values to **provide to more than 200+ colleagues** across the EMEA business  at FMIC.
+  - Extract data from the AS/400 database into Excel to format, removing duplicates and missing values to **provide to more than 200+ colleagues** across the EMEA business  at FMIC
 
 </details>
 
@@ -58,7 +58,7 @@ Experienced in using the following applications (not limited to):
 - Microsoft Office (particularly Excel)
 - Google Suite
 - SQL (MS Server)
-- Tableau/PowerBI
+- Tableau/Power BI
 - Miro Board
 - R/Python (BeautifulSoup - web scraping)
 - JIRA & Confluence
