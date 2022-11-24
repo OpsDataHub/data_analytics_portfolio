@@ -5,7 +5,7 @@
 <summary>About Me</summary>
 <br>
 
-**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working in datasets of varying degrees, from easy-to-digest Excel spreadsheets to larger datasets of up to 500+ TB of data used in SQL, and R/Python.
+**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working with datasets of varying degrees, from easy-to-digest Excel spreadsheets to larger datasets of up to 500+ TB of data used in SQL, and R/Python.
 
 **Why do you do what you do?** - I've always been invested in data and using applications to get results, starting with music programming and technology and later utilising SQL, Excel and Tableau/Power BI to drive business decisions. According to [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) With growth for the data field set to grow about 28% through 2026. I'm confident that the future of data has never been more exciting!
 
