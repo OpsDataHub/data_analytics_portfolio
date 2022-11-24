@@ -30,7 +30,7 @@
   - Collaboarated with product and engineering teams at MyTutor to successfully **solve 30+ daily** technical site issues 
   - Supported our Business Development team at FMIC to update signed **200+ contracts from dealers** in the AS/400 database
 - **Problem Solving**
-  - Solved technical issues reported on JIRA that lead to improving customer **satisfaction fron Google reviews from 3.8 to 4.0 out of 5**
+  - Solved technical issues reported on JIRA that lead to **improving customer satisfaction on Google reviews from 3.8 to 4.0 out of 5**
   - Created categories for product reports in our CRM system (Zendesk) to **collect data from 10,000+ daily customers**, improving accurate reporting at MyTutor
 - **Attention to Detail**
   - Scrutinised up to **500 daily bookings** at Ocean Holidays, analysing for correct information extracted from Excel and comparing to transmittals received to **reach 97%+ score**
