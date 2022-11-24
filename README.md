@@ -15,7 +15,7 @@
 <br>
 <br>
 
-*P.S. quick bonus fact for you - at MyTutor, I won the data compeition in the data team for building a database in SQL from the ground up, focusing on different coloured shirts and presenting this to the team. As an award, I won an emoji of me with a crown and a box of chocolates!*
+*P.S. quick bonus fact for you - at MyTutor, I won the data competition in the data team for building a database in SQL from the ground up, focusing on different coloured shirts and presenting this to the team. As an award, I won an emoji of me with a crown and a box of chocolates!*
 
 </details>
 
