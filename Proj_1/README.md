@@ -10,7 +10,7 @@ In this project, we study how travel to and from the UK has changed, using the c
 <details>
 <summary>1.</summary>
 <br>
-
+ 
 Let's look at top 10 years for travelling into the UK, from 1980 to 2022.
 
 ![Highest 10 Years](https://user-images.githubusercontent.com/111752059/195595646-d4bb24e1-7608-466c-9bd7-f9f578121087.png)
