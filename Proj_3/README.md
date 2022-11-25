@@ -1,7 +1,7 @@
 ## **Summary**
 
 BTS isn't the only group from Korea who's taking the world by storm, k-pop is a growing phenomenom in the past decade, so this analysis investigates some of the trends in how k-pop idols are selected, with the purpose to understand how entertainment companies select k-pop idols from the audition processes and how this may be considered the trend for future k-pop debuts.
-
+ 
 *You can find SQL scripts and CSV dataset in the repository file section above to see how the data was collected, cleaned and mined.*
 
 ## **Key Findings**
