@@ -1,5 +1,5 @@
 ## **Summary**
-
+ 
 In this project, we study how travel to and from the UK has changed, using the comparison between pre and post-pandemic. While the pandemic may not be considered officially over, many travel restrictions have now been lifted. We look at the top 10 best and worst performing years for travellers into the UK with data collected from 1980 to 2022 by ONS. The purpose of this project is to analyse the data provided to find different patterns in consumer behaviour, gain an understanding in how travel has been impacted and to see if any predictions can be made in how travel will be affected moving forward.
 
 *You can find SQL scripts and CSV dataset in the repository file section above to see how the data was collected, cleaned and mined.*
