@@ -5,13 +5,13 @@
 <summary>About Me</summary>
 <br>
 
-**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working with datasets of varying degrees, from easy-to-digest Excel spreadsheets to larger datasets of up to 500+ TB of data used in SQL, and R/Python.
+**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working with data from the operations field, from simple datasets shared with stakeholders via Excel to larger datasets, utilising SQL and Tableau to share with stakeholders.
 
-**Why do you do what you do?** - I've always been invested in data and using applications to get results, starting with music programming and technology and later utilising SQL, Excel and Tableau/Power BI to drive business decisions. According to [Schroeder, 2021](https://www.forbes.com/sites/bernhardschroeder/2021/06/11/the-data-analytics-profession-and-employment-is-exploding-three-trends-that-matter/?sh=356375f73f81) With growth for the data field set to grow about 28% through 2026. I'm confident that the future of data has never been more exciting!
+**Why do you do what you do?** - An important question in data is "why?" and so, it makes sense that I answer the question, why data analytics? Ever since studying Music as part of my bachelor's degree, I've been taking sounds from the air using software and tools in manipulating musical notes to create and present songs to the public. The process of data is very similar in this way, and the keyword as to why I love both is this - curiosity! Since then, that curiosity has led me to being involved in analysing data for 4+ years within operational backgrounds. Providing insight for 1,000+ global clients within Aviation, EdTech and Instrument Manufacturing industries. Now, I'm ready to embed myself further into a data-centric role as my long-term career.
 
-**What expertise and skills do you bring?** - While I bring with me the invaluable skill sets in using SQL, Excel, Tableau/Power BI, I'm a qualified educator for 6+ years, with a pedagogical approach in presenting complex information, having supported the education sector in the UK and US to students aged 5-25. This is ciritical when dealing with both business and technical stakeholders who rely on data to plan ahead with strategic business decisions that can have a major impact.
+**What expertise and skills do you bring?** - While I bring with me the invaluable skill sets in SQL, Excel and Tableau/Power BI, I'm also a qualified educator for 5+ years in secondary/further education, with a pedagogical approach in presenting complex information to a broad audience. This is ciritical when dealing with both business and technical stakeholders, who rely on data to make strategic business decisions that will have a major impact.
 
-**What are you looking for?** - Looking for a role that prioritises data in their workplace that I'm really keen in analysing and finding results for. I'd love to hear from you to discuss further about what you're looking for in a data analyst role and the needs of the business, so please do get in touch so we can discuss further. Looking forward to speaking with you!
+**What are you looking for?** - Looking for a new and exciting role that understands the importance of data for their business, building on that curiosity to dicover new insights. I'd love to hear from you to discuss further about what you're looking for your business, so please don't hesitate to get in touch so we can discuss further.
 <br>
 <br>
 
@@ -20,7 +20,7 @@
 </details>
 
 <details markdown="1">
-<summary>Soft Skills</summary>
+<summary>Skills & Experience</summary>
 <br>
 
 - **Communication & Presentation**
@@ -39,17 +39,6 @@
 </details>
 
 <details markdown="1">
-<summary>Technical Skills</summary>
-<br>
-
-- Programming: SQL (SQL Server, Azure), Python (BeautifulSoup)
-- Excel: vlookup, index match, count(if), sum(if), min/max(if), average, conditional formatting, trim
-- Modeling: Linear Regressions, Logistic Regressions
-- Data Visualisation: Tableau, Power BI, MS Excel/Google Sheets, PowerPoint
-
-</details>
-
-<details markdown="1">
 <summary>Applications</summary>
 <br>
 
@@ -62,6 +51,7 @@ Experienced in using the following applications (not limited to):
 - Miro Board
 - R/Python (BeautifulSoup - web scraping)
 - JIRA & Confluence
+- BigQuery, AWS
 - Extranet and API (Internal) systems
 - GDS (Galileo, TD-i, AC7)
 - Internal systems (TravelWeb, NED, AS/400, PIM)
