@@ -45,12 +45,13 @@
 Experienced in using the following applications (not limited to):
 
 - Microsoft Office (particularly Excel)
-- Google Suite
-- SQL (MS Server)
+- Google Workspace
+- SQL
 - Tableau/Power BI
-- Miro Board
-- R/Python (BeautifulSoup - web scraping)
+- R & Python (BeautifulSoup - web scraping)
 - JIRA & Confluence
+- Miro Board
+- BrowserStack
 - BigQuery, AWS
 - Extranet and API (Internal) systems
 - GDS (Galileo, TD-i, AC7)
