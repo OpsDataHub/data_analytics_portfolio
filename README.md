@@ -24,8 +24,8 @@
 <br>
 
 - **Communication & Presentation**
-- Successfully delivered over 100 PowerPoint presentations to students in both primary and further education sectors in the UK and US.
-- Conducted weekly workshops, effectively communicating data-led insights to 20+ teams of B2C stakeholders at MyTutor.
+  - Successfully delivered over 100 PowerPoint presentations to students in both primary and further education sectors in the UK and US.
+  - Conducted weekly workshops, effectively communicating data-led insights to 20+ teams of B2C stakeholders at MyTutor.
 - **Teamwork**
 - Collaborated seamlessly with product and engineering teams at MyTutor to resolve 30+ daily technical site issues.
 - Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of over 200 contracts from dealers within the AS/400 database.
