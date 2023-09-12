@@ -1,21 +1,21 @@
 # <h1 align="center">Data Analytics Portfolio</h1>
-<h5 align="center">By Oliver Summers (BMus, PGCE)</h5>
+<h5 align="center">By Oliver Summers </h5>
 
 <details>
 <summary>About Me</summary>
 <br>
 
-**Who are you?** - Hi, I'm Oliver, and I love being involved with data! With nearly 5 years experience working with data from the operations field, from simple datasets shared with stakeholders via Excel to larger datasets, utilising SQL and Tableau to share with stakeholders.
+**Who are you?** - I'm Oliver, deeply passionate about working with data. With nearly 5 years in operations data, I've handled an array of datasets from Excel to SQL and Tableau visualisations, collaborating closely with stakeholders.
 
-**Why do you do what you do?** - An important question in data is "why?" and so, it makes sense that I answer the question, why data analytics? Ever since studying Music as part of my bachelor's degree, I've been taking sounds from the air using software and tools in manipulating musical notes to create and present songs to the public. The process of data is very similar in this way, and the keyword as to why I love both is this - curiosity! Since then, that curiosity has led me to being involved in analysing data for 4+ years within operational backgrounds. Providing insight for 1,000+ global clients within Aviation, EdTech and Instrument Manufacturing industries. Now, I'm ready to embed myself further into a data-centric role as my long-term career.
+**Why do you do what you do?** - Answer the "why" of data analytics. My journey began with music, where I used software to create melodies from thin air. This curiosity-driven approach has led me to over 4 years of data analysis, providing insights to 1,000+ clients globally in Aviation, EdTech, and Instrument Manufacturing. Now, I'm eager to continue the deep dive into a data-centric career.
 
-**What expertise and skills do you bring?** - While I bring with me the invaluable skill sets in SQL, Excel and Tableau/Power BI, I'm also a qualified educator for 5+ years in secondary/further education, with a pedagogical approach in presenting complex information to a broad audience. This is ciritical when dealing with both business and technical stakeholders, who rely on data to make strategic business decisions that will have a major impact.
+**What expertise and skills do you bring?** - I bring essential skills in Excel, in addition to SQL and Tableau/Power BI. Plus, over 5 years of experience as an educator, making complex information accessible to diverse audiences, crucial when working with business and technical stakeholders.
 
-**What are you looking for?** - Looking for a new and exciting role that understands the importance of data for their business, building on that curiosity to dicover new insights. I'd love to hear from you to discuss further about what you're looking for your business, so please don't hesitate to get in touch so we can discuss further.
+**What are you looking for?** - I'm seeking an exciting role that values data's impact on business success. My curiosity drives me to uncover fresh insights. Let's connect to discuss how I can contribute to your organization.
 <br>
 <br>
 
-*P.S. quick bonus fact for you - at MyTutor, I won the data competition in the data team for building a database in SQL from the ground up, focusing on different coloured shirts and presenting this to the team. As an award, I won an emoji of me with a crown and a box of chocolates!*
+*P.S. Fun fact: At MyTutor, I built a SQL database categorizing different colored shirts, earning me an emoji with a crown and a box of chocolates!*
 
 </details>
 
@@ -24,17 +24,17 @@
 <br>
 
 - **Communication & Presentation**
-  - Delivered **PowerPoint presentations for 100+ lessons** in both primary and FE education sectors in UK and US
-  - Presented weekly workshops to **20+ teams to update B2C stakeholders** at MyTutor on data-led insights
+- Successfully delivered over 100 PowerPoint presentations to students in both primary and further education sectors in the UK and US.
+- Conducted weekly workshops, effectively communicating data-led insights to 20+ teams of B2C stakeholders at MyTutor.
 - **Teamwork**
-  - Collaboarated with product and engineering teams at MyTutor to successfully **solve 30+ daily** technical site issues 
-  - Supported our Business Development team at FMIC to update signed **200+ contracts from dealers** in the AS/400 database
+- Collaborated seamlessly with product and engineering teams at MyTutor to resolve 30+ daily technical site issues.
+- Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of over 200 contracts from dealers within the AS/400 database.
 - **Problem Solving**
-  - Solved technical issues reported on JIRA that lead to **improving customer satisfaction on Google reviews from 3.8 to 4.0 out of 5**
-  - Created categories for product reports in our CRM system (Zendesk) to **collect data from 10,000+ daily customers**, improving accurate reporting at MyTutor
+- Skillfully addressed technical issues reported on JIRA, resulting in a significant increase in customer satisfaction on Google reviews, elevating the rating from 3.8 to an impressive 4.0 out of 5.
+- Implemented a systematic categorization system for product reports in our CRM system (Zendesk) to efficiently collect data from over 10,000 daily customers, enhancing the accuracy of reporting at MyTutor.
 - **Attention to Detail**
-  - Scrutinised up to **500 daily bookings** at Ocean Holidays, analysing for correct information extracted from Excel and comparing to transmittals received to **reach 97%+ score**
-  - Extract data from the AS/400 database into Excel to format, removing duplicates and missing values to **provide to more than 200+ colleagues** across the EMEA business  at FMIC
+- Diligently reviewed up to 500 daily bookings at Ocean Holidays, meticulously analyzing information extracted from Excel and cross-referencing it with transmittals received, achieving an exceptional accuracy score of 97% or higher.
+- Proficiently extracted and formatted data from the AS/400 database into Excel, eliminating duplicates and missing values, and shared this information with more than 200 colleagues across the EMEA business at FMIC.
 
 </details>
 
@@ -48,11 +48,9 @@ Experienced in using the following applications (not limited to):
 - Google Workspace
 - SQL
 - Tableau/Power BI
-- R & Python (BeautifulSoup - web scraping)
 - JIRA & Confluence
 - Miro Board
 - BrowserStack
-- BigQuery, AWS
 - Extranet and API (Internal) systems
 - GDS (Galileo, TD-i, AC7)
 - Internal systems (TravelWeb, NED, AS/400, PIM)
