@@ -27,14 +27,14 @@
   - Successfully delivered over 100 PowerPoint presentations to students in both primary and further education sectors in the UK and US.
   - Conducted weekly workshops, effectively communicating data-led insights to 20+ teams of B2C stakeholders at MyTutor.
 - **Teamwork**
-- Collaborated seamlessly with product and engineering teams at MyTutor to resolve 30+ daily technical site issues.
-- Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of over 200 contracts from dealers within the AS/400 database.
+  - Collaborated seamlessly with product and engineering teams at MyTutor to resolve 30+ daily technical site issues.
+  - Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of over 200 contracts from dealers within the AS/400 database.
 - **Problem Solving**
-- Skillfully addressed technical issues reported on JIRA, resulting in a significant increase in customer satisfaction on Google reviews, elevating the rating from 3.8 to an impressive 4.0 out of 5.
-- Implemented a systematic categorization system for product reports in our CRM system (Zendesk) to efficiently collect data from over 10,000 daily customers, enhancing the accuracy of reporting at MyTutor.
+  - Skillfully addressed technical issues reported on JIRA, resulting in a significant increase in customer satisfaction on Google reviews, elevating the rating from 3.8 to an impressive 4.0 out of 5.
+  - Implemented a systematic categorization system for product reports in our CRM system (Zendesk) to efficiently collect data from over 10,000 daily customers, enhancing the accuracy of reporting at MyTutor.
 - **Attention to Detail**
-- Diligently reviewed up to 500 daily bookings at Ocean Holidays, meticulously analyzing information extracted from Excel and cross-referencing it with transmittals received, achieving an exceptional accuracy score of 97% or higher.
-- Proficiently extracted and formatted data from the AS/400 database into Excel, eliminating duplicates and missing values, and shared this information with more than 200 colleagues across the EMEA business at FMIC.
+  - Diligently reviewed up to 500 daily bookings at Ocean Holidays, meticulously analyzing information extracted from Excel and cross-referencing it with transmittals received, achieving an exceptional accuracy score of 97% or higher.
+  - Proficiently extracted and formatted data from the AS/400 database into Excel, eliminating duplicates and missing values, and shared this information with more than 200 colleagues across the EMEA business at FMIC.
 
 </details>
 
