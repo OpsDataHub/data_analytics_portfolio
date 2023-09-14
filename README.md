@@ -28,13 +28,13 @@
   - Conducted weekly workshops, effectively communicating data-led insights to **10+ teams** of B2C stakeholders at MyTutor.
 - **Teamwork**
   - Collaborated seamlessly with product and engineering teams at MyTutor to resolve **20+ daily technical site issues.**
-  - Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of **over 200 contracts** from dealers within the AS/400 database.
+  - Provided crucial support to our Business Development team at FMIC, ensuring the accurate update of **200+ contracts** from dealers within the AS/400 database.
 - **Problem Solving**
   - Skillfully addressed technical issues reported on JIRA, resulting in a significant increase in customer satisfaction on Google reviews, elevating the rating from **3.8 to an impressive 4.0 out of 5.**
-  - Implemented a systematic categorization system for product reports in our CRM system (Zendesk) to efficiently collect data from **over 5,000 daily customers,** enhancing the accuracy of reporting at MyTutor.
+  - Implemented a systematic categorization system for product reports in our CRM system (Zendesk) to efficiently collect data from **5,000+ daily customers,** enhancing the accuracy of reporting at MyTutor.
 - **Attention to Detail**
   - Diligently reviewed up to **200 daily bookings** at Ocean Holidays, meticulously analyzing information extracted from Excel and cross-referencing it with transmittals received, achieving an exceptional accuracy score of **97% or higher.**
-  - Proficiently extracted and formatted data from the AS/400 database into Excel, eliminating duplicates and missing values, and shared this information with **more than 200 colleagues** across the EMEA business at FMIC.
+  - Proficiently extracted and formatted data from the AS/400 database into Excel, eliminating duplicates and missing values, and shared this information with **200+ colleagues** across the EMEA business at FMIC.
 
 </details>
 
@@ -64,10 +64,20 @@ Experienced in using the following applications (not limited to):
 <summary>Spotify Stream Breakdown</summary>
 <br>
 
+## **Summary**
+ 
+This project breaks down some of the top performing artists on Spotify in 2023. Here we can use the interactive dashboard to gain an understanding of artists featured, top playlisted songs and the amount of streams generated for each song.
+
 **INTERACTIVE DASHBOARD HOSTED ON TABLEAU PUBLIC [HERE](https://public.tableau.com/views/SpotifyStreamBreakdown/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 <div class='tableauPlaceholder' id='viz1694696213335' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SpotifyStreamBreakdown&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div> 
 
+## **Key Findings**
+<br>
+
+- 
+- 
+- 
 
 ______________
 
@@ -82,9 +92,20 @@ ______________
 <summary>World Happiness Report 2023</summary>
 <br>
 
+## **Summary**
+
+This project looks at overall happiness in 2023, with a breakdown by region and country to help spread awareness on what areas are upholding a high score and what areas still need improving.
+
 **INTERACTIVE DASHBOARD HOSTED ON TABLEAU PUBLIC [HERE](https://public.tableau.com/views/WHR2023Dashboard/Dashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 <div class='tableauPlaceholder' id='viz1694699630404' style='position: relative'><noscript><a href='#'><img alt='World Happiness Report 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WHR2023Dashboard&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
+
+## **Key Findings**
+<br>
+
+- 
+- 
+- 
 
 ______________
 
