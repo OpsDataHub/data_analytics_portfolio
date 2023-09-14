@@ -64,7 +64,7 @@ Experienced in using the following applications (not limited to):
 <summary>Spotify Stream Breakdown</summary>
 <br>
 
-<div class='tableauPlaceholder' id='viz1694696213335' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SpotifyStreamBreakdown&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1694696213335');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1703px';vizElement.style.height='931px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1703px';vizElement.style.height='931px';} else { vizElement.style.width='100%';vizElement.style.height='1577px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1694696213335' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SpotifyStreamBreakdown&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sp&#47;SpotifyStreamBreakdown&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div> 
 
 
 ______________
@@ -72,9 +72,7 @@ ______________
 
 *Further Notes:*
 
-- Code/File: [Found in this repository folder](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_1)
-- Source: [Office for National Survey - Overseas travel and tourism time series](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/internationalpassengersurveytimeseriesspreadsheet)
-- Technology: SQL, Excel, Power BI, Parsehub
+- Source: [Dataset provided by Nidula Elgiriyewithana on Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
 </details>
 
@@ -82,15 +80,12 @@ ______________
 <summary>World Happiness Report 2023</summary>
 <br>
 
-<div class='tableauPlaceholder' id='viz1694699630404' style='position: relative'><noscript><a href='#'><img alt='World Happiness Report 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WHR2023Dashboard&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1694699630404');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1677px';vizElement.style.height='1031px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1677px';vizElement.style.height='1031px';} else { vizElement.style.width='100%';vizElement.style.height='1227px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1694699630404' style='position: relative'><noscript><a href='#'><img alt='World Happiness Report 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WHR2023Dashboard&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WHR2023Dashboard&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>
 
 ______________
 
-
 *Further Notes:*
 
-- Code/File: [repository folder here](https://github.com/OSummers/data_analyst_portfolio/tree/main/Proj_2)
-- Source: [Steam top 250](https://steam250.com/reviews), [Metacritic Games Releases](https://www.metacritic.com/browse/games/score/metascore/all/all/filtered)
-- Technology: SQL, Excel, Tableau, Parsehub, Python (BeautifulSoup)
+- Source: [Dataset provided by Sazidul Islam on Kaggle](https://steam250.com/reviews](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)
 
 </details>
