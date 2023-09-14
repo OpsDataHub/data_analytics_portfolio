@@ -61,7 +61,7 @@ Experienced in using the following applications (not limited to):
 # Contents
 
 <details>
-<summary>Spotify Stream Breakdown</summary>
+<summary>PROJECT 1 - Spotify Stream Breakdown</summary>
 <br>
 
 ## **Summary**
@@ -89,7 +89,7 @@ ______________
 </details>
 
 <details>
-<summary>World Happiness Report 2023</summary>
+<summary>PROJECT 2 - World Happiness Report 2023</summary>
 <br>
 
 ## **Summary**
