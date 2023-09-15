@@ -75,9 +75,10 @@ This project breaks down some of the top performing artists on Spotify in 2023. 
 ## **Key Findings**
 <br>
 
-- 
-- 
-- 
+- 'Get Lucky' by Pharrell Williams, Nile Rodgers, Daft Punk is the most playlisted song of all time, at a total of 52,898.
+- 'Blinding Lights' by The Weeknd is the most streamed on Spotify, with 3.7B streams overall. The Weeknd is also the most streamed artist at 14.18B.
+- 'Flowers' by Miley Cyrus appears to be the biggest hit in 2023, being the most playlisted song at 12,211 and the most streamed song at 1.3B.
+- 'Blinding Lights' by The Weeknd and 'Shape of You' by Ed Sheeran are the only 2 songs to have ever reached a total of 3+B streams.
 
 ______________
 
@@ -89,7 +90,7 @@ ______________
 </details>
 
 <details>
-<summary>PROJECT 2 - World Happiness Report 2023</summary>
+<summary>PROJECT 2 - World Happiness Report</summary>
 <br>
 
 ## **Summary**
@@ -103,9 +104,10 @@ This project looks at overall happiness in 2023, with a breakdown by region and 
 ## **Key Findings**
 <br>
 
-- 
-- 
-- 
+- Sub-Saharan Africa is the region listed with the highest happiness score at 144.6.
+- Of the top 3 happiest regions, all had highest levels of social support, generosity and freedom to make life choices.
+- Of all the regions, the Commonwealth of Independent States performed at the lowest, with a score of 23.31.
+- Afghanistan was the lowest perfroming country for happiness, with a score level at 1.8.
 
 ______________
 
