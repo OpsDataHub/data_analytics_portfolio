@@ -61,7 +61,7 @@ Experienced in using the following applications (not limited to):
 # Contents
 
 <details>
-<summary>PROJECT 1 - Spotify Stream Breakdown</summary>
+<summary>#1 - Spotify Stream Breakdown</summary>
 <br>
 
 ## **Summary**
@@ -90,7 +90,7 @@ ______________
 </details>
 
 <details>
-<summary>PROJECT 2 - World Happiness Report</summary>
+<summary>#2 - World Happiness Report</summary>
 <br>
 
 ## **Summary**
