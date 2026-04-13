@@ -27,8 +27,6 @@ The analysis addresses three key questions: how sales teams compare against each
 
 **Sales Team Performance** - Total closed revenue across all teams is $10M. Melvin Marxen (Central) is the standout performer, contributing 23% of total revenue at an average deal value of $2,554. Win rates are consistent across all agents at approximately 63%, indicating the sales process is working uniformly across teams. Performance differences are driven by deal value rather than conversion ability - Dustin Brinkmann's average deal value of $1,465 is 38% below the team average of $2,361, making him the primary drag on Central's overall contribution despite a comparable win rate.
 
-<img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
-
 <p align="center">
   <img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
 </p>
