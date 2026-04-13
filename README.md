@@ -29,6 +29,10 @@ The analysis addresses three key questions: how sales teams compare against each
 
 <img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
 
+<p align="center">
+  <img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
+</p>
+
 <br>
 
 <img width="3402" height="1991" alt="Sales Manager Win Rates" src="https://github.com/user-attachments/assets/ec03a027-d898-4f13-8bf7-f46b6751584e" />
