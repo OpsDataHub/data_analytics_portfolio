@@ -1,4 +1,3 @@
-
 # <h1 align="center">Data Analysis Portfolio</h1>
 <h5 align="center">By Oliver Summers </h5>
 
@@ -28,13 +27,21 @@ The analysis addresses three key questions: how sales teams compare against each
 
 **Sales Team Performance** - Total closed revenue across all teams is $10M. Melvin Marxen (Central) is the standout performer, contributing 23% of total revenue at an average deal value of $2,554. Win rates are consistent across all agents at approximately 63%, indicating the sales process is working uniformly across teams. Performance differences are driven by deal value rather than conversion ability - Dustin Brinkmann's average deal value of $1,465 is 38% below the team average of $2,361, making him the primary drag on Central's overall contribution despite a comparable win rate.
 
+<img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
+
+<img width="3402" height="1991" alt="Sales Manager Win Rates" src="https://github.com/user-attachments/assets/ec03a027-d898-4f13-8bf7-f46b6751584e" />
+
 <br>
 
 **Sales Agent Performance** - At agent level, win rates remain consistent across the team, confirming that underperformance is not a conversion issue. Violet Mclelland is the clearest underperformer - lowest revenue at $123,431, lowest average deal value at $1,012, and above average days to close at 58 days. Moses Frase and Lajuana Vencill are flagged for pipeline velocity concerns at 65 and 63 days to close respectively, well above the 52 day team average, representing stale pipeline that distorts forecasting accuracy. Elease Gluck and Rosalina Dieter show the highest average deal values in the dataset at $3,615 and $3,269 but contribute only 2% of revenue each - indicating a pipeline volume problem rather than a capability issue.
 
+<img width="677" height="617" alt="Sales Agent Performance" src="https://github.com/user-attachments/assets/d32bd269-be86-47ae-8d21-a07dacfd793d" />
+
 <br>
 
 **Product Win Rates** - These consistent across the portfolio, ranging narrowly between 46–49%. GTK 500 is the only meaningful outlier at 38%, however it carries an average deal value of $26,707 - approximately 11x the portfolio average of $2,361. Each lost GTK 500 deal therefore represents a disproportionate revenue impact relative to any other product. Improving win rate on GTK 500 through tighter qualification criteria or additional sales support would have a greater effect on total revenue than equivalent improvement across any other product in the portfolio.
+
+<img width="2656" height="1491" alt="Product Win Rates" src="https://github.com/user-attachments/assets/71529137-a797-42f4-b7ce-bfc2d2d3ae02" /> 
 
 <img width="3019" height="2287" alt="Product by Average Won Value" src="https://github.com/user-attachments/assets/df64ee5c-c74f-4685-975b-b837a18e94aa" />
 
