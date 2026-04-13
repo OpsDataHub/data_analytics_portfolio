@@ -5,8 +5,7 @@
 <summary>Applications</summary>
 <br>
 
-- Excel - data cleaning and pivot analysis
-- Power BI - dashboard visualisation
+- Excel/Power BI - data cleaning and pivot analysis and visualisations
 - GitHub - version control and portfolio hosting
 
 </details>
