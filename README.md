@@ -29,6 +29,8 @@ The analysis addresses three key questions: how sales teams compare against each
 
 <img width="523" height="167" alt="Sales Manager Win Performance" src="https://github.com/user-attachments/assets/ca76cf12-6580-4dc5-a660-4d7d1c0382e4" />
 
+<br>
+
 <img width="3402" height="1991" alt="Sales Manager Win Rates" src="https://github.com/user-attachments/assets/ec03a027-d898-4f13-8bf7-f46b6751584e" />
 
 <br>
@@ -42,6 +44,8 @@ The analysis addresses three key questions: how sales teams compare against each
 **Product Win Rates** - These consistent across the portfolio, ranging narrowly between 46–49%. GTK 500 is the only meaningful outlier at 38%, however it carries an average deal value of $26,707 - approximately 11x the portfolio average of $2,361. Each lost GTK 500 deal therefore represents a disproportionate revenue impact relative to any other product. Improving win rate on GTK 500 through tighter qualification criteria or additional sales support would have a greater effect on total revenue than equivalent improvement across any other product in the portfolio.
 
 <img width="2656" height="1491" alt="Product Win Rates" src="https://github.com/user-attachments/assets/71529137-a797-42f4-b7ce-bfc2d2d3ae02" /> 
+
+<br>
 
 <img width="3019" height="2287" alt="Product by Average Won Value" src="https://github.com/user-attachments/assets/df64ee5c-c74f-4685-975b-b837a18e94aa" />
 
