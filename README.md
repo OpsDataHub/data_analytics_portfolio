@@ -1,5 +1,5 @@
-# <h1 align="center">Data Analysis Portfolio</h1>
-<h5 align="center">By Oliver Summers </h5>
+# <h1 align="center">Data Analysis Project</h1>
+<h5 align="center">By Oliver S </h5>
 
 <details markdown="1">
 <summary>Applications</summary>
