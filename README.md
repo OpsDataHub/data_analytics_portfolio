@@ -45,7 +45,7 @@ The analysis addresses three key questions: how sales teams compare against each
 
 <br>
 
-**Product Win Rates** - Product win rates are consistent across the portfolio ranging from 60–65%, with no significant outliers on conversion alone. When cross-referenced with average deal value the picture becomes more nuanced. GTX Plus Pro and GTX Pro combine strong 64% win rates with deal values of $5,490 and $4,816 respectively, making them the highest priority products for sales focus. GTK 500 carries the highest average deal value in the portfolio at $26,707 — approximately 11x the portfolio average — meaning a 1% improvement in its win rate has greater revenue impact than equivalent improvement across any other product. MG Special, despite the highest win rate at 65%, generates an average of just $55 per deal making its revenue contribution marginal.
+**Product Win Rates** - Product win rates are consistent across the portfolio ranging from 60–65%, with no significant outliers on conversion alone. When cross-referenced with average deal value the picture becomes more nuanced. GTX Plus Pro and GTX Pro combine strong 64% win rates with deal values of $5,490 and $4,816 respectively, making them the highest priority products for sales focus. GTK 500 carries the highest average deal value in the portfolio at $26,707 - approximately 11x the portfolio average - meaning a 1% improvement in its win rate has greater revenue impact than equivalent improvement across any other product. MG Special, despite the highest win rate at 65%, generates an average of just $55 per deal making its revenue contribution marginal.
 
 <img width="2656" height="1491" alt="Product Win Rates" src="https://github.com/user-attachments/assets/71529137-a797-42f4-b7ce-bfc2d2d3ae02" /> 
 
