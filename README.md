@@ -7,9 +7,9 @@
 
 Tools used
 
-Excel — data cleaning and pivot analysis
-Power BI — dashboard visualisation
-GitHub — version control and portfolio hosting
+- Excel — data cleaning and pivot analysis
+- Power BI — dashboard visualisation
+- GitHub — version control and portfolio hosting
 
 </details>
 
@@ -46,5 +46,3 @@ ______________
 - License: Public Domain
 
 </details>
-
-<details>
