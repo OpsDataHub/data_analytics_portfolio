@@ -30,7 +30,7 @@ The analysis addresses three key questions: how sales teams compare against each
 
 <br>
 
-**Sales Agent Performance** - At agent level, win rates remain consistent across the team, confirming that underperformance is not a conversion issue. Violet Mclelland is the clearest underperformer - lowest revenue at $123,431, lowest average deal value at $1,012, and above average days to close at 58 days. Moses Frase and Lajuana Vencill are flagged for pipeline velocity concerns at 65 and 63 days to close respectively, well above the 52 day team average, representing stale pipeline that distorts forecasting accuracy. Elease Gluck and Rosalina Dieter show the highest average deal values in the dataset at $3,615 and $3,269 but contribute only 2% of revenue each — indicating a pipeline volume problem rather than a capability issue.
+**Sales Agent Performance** - At agent level, win rates remain consistent across the team, confirming that underperformance is not a conversion issue. Violet Mclelland is the clearest underperformer - lowest revenue at $123,431, lowest average deal value at $1,012, and above average days to close at 58 days. Moses Frase and Lajuana Vencill are flagged for pipeline velocity concerns at 65 and 63 days to close respectively, well above the 52 day team average, representing stale pipeline that distorts forecasting accuracy. Elease Gluck and Rosalina Dieter show the highest average deal values in the dataset at $3,615 and $3,269 but contribute only 2% of revenue each - indicating a pipeline volume problem rather than a capability issue.
 
 <br>
 
