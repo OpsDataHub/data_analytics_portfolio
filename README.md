@@ -41,7 +41,7 @@ The analysis addresses three key questions: how sales teams compare against each
 
 <p align="center">
   <img width="677" height="617" alt="Sales Agent Performance" src="https://github.com/user-attachments/assets/d32bd269-be86-47ae-8d21-a07dacfd793d" />
-</p>>
+</p>
 
 <br>
 
