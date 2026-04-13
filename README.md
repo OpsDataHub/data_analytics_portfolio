@@ -19,8 +19,8 @@
 ## **Summary**
 
 <br>
-This project analyses a B2B sales pipeline dataset from Maven Analytics, covering a fictitious computer hardware company. Data was cleaned and prepared in Excel before being visualised in Power BI.
-The analysis addresses three key questions: how sales teams compare against each other, which agents are underperforming and why and which products deliver the strongest win rates.
+This project analyses a B2B sales pipeline dataset from Maven Analytics, covering a fictitious computer hardware company. Data was cleaned, prepared and visualised in Excel/Power BI.
+The analysis addresses three key questions: how sales managers/teams compare against each other, which agents are underperforming and why and which products deliver the strongest win rates.
 
 ## **Key Findings**
 <br>
